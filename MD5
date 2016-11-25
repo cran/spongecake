@@ -1,0 +1,10 @@
+f3795dc8f563704882440329ef7afe42 *DESCRIPTION
+1d1579a59fd4969d1fe355af2214f2b7 *NAMESPACE
+0f03e9312cb02a368cdced3e02d7af87 *R/functions.R
+7314bb6ad8c7fc17622ae49e53dbb9f9 *R/onAttach.R
+4c3e6b1291108445f8374d7d13d09e03 *R/spongecake.R
+a9a6792ac460dafeb9812f90718c7a05 *man/average_color.Rd
+3a9a55cf603d7ab020a4d0538dacce5c *man/draw.Rd
+0e207bb2418c210bf46d6be215760ad1 *man/folder_average_color.Rd
+f5261e3b8326789dd1597edf7ff6c075 *man/gen_screenshot.Rd
+cfc4cdea18e8bbb12654cebd3948ac54 *man/spongecake.Rd
